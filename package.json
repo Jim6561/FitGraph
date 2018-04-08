@@ -1,0 +1,18 @@
+{
+	"name": "fit-graph",
+	"version": "0.0.1",
+	"description": "A node server thingy that shows my fitbit data",
+	"engines": {
+		"node": "9.6.1"
+	},
+	"main": "index.js",
+	"dependencies": {
+		"express": "^4.16.3"
+	},
+	"license": "MIT",
+	"author": "James Woodward",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Jim6561/FitGraph"
+	}
+}
